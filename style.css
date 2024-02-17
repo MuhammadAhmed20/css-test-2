@@ -1,0 +1,14 @@
+.i3{
+    width: 100%;
+}
+.b1{
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    width: 120px;
+    height: 40px;
+}
+.b1:hover{
+    color: black;
+    background-color: yellow;
+}
